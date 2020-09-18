@@ -21,4 +21,4 @@ This project works with data collected from the donor database of Blood Transfus
 * scikit-learn
 * TPOT library
 
-_The project is based on a datacamp assignment published by Dimitri Denisjonok._
+_The project is based on a MedTourEasy Project published by Anwar Patel._
